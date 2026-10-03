@@ -11,6 +11,7 @@ Keep the video open, press F12 (fn+F12 on some laptops), developer tools will ap
 This worked amazingly for me, but just note that it may not work well for everyone, dont fight me or flood my email with angry emails saying why it does not work
 I am currently working on making it so that it no longer need a .m3u8 link, I will update the project and files if I was able to possible make it not need the .m3u8 link
 And feel free to fork this repository and add your own changes to it and maybe even make it run on other operating systems yourself
+
 Credits:
 * **[yt-dlp](https://github.com)** - Used for fetching and downloading video streams. (Licensed under The Unlicense / GPLv3+)
 * **[FFmpeg](https://ffmpeg.org)** - Used for merging, converting, and post-processing video/audio tracks. (Licensed under the GNU Lesser General Public License [LGPL v2.1](https://gnu.org))
