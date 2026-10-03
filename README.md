@@ -13,5 +13,5 @@ I am currently working on making it so that it no longer need a .m3u8 link, I wi
 And feel free to fork this repository and add your own changes to it and maybe even make it run on other operating systems yourself
 
 Credits:
-* **[yt-dlp](https://github.com)** - Used for fetching and downloading video streams. (Licensed under The Unlicense / GPLv3+)
+* **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - Used for fetching and downloading video streams. (Licensed under The Unlicense / GPLv3+)
 * **[FFmpeg](https://ffmpeg.org)** - Used for merging, converting, and post-processing video/audio tracks. (Licensed under the GNU Lesser General Public License [LGPL v2.1](https://gnu.org))
