@@ -1,3 +1,4 @@
+Note: this project has been temporarily discontinued because I have a new project that I am focusing on
 # Abwaab-video-downloader
 A simple .bat file that uses yt-dlp and ffmpeg to download any abwaab video (Windows only for now)
 Here is how you can download a video from awbaab with this tool: (feel free to DM me or create an issue and i will give you the tutorial with screenshots or video recordings)
